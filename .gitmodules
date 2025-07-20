@@ -1,0 +1,3 @@
+[submodule "instagram_fixup_telegram_bot"]
+	path = instagram_fixup_telegram_bot
+	url = https://github.com/TripleAConsortium/instagram_fixup_telegram_bot
